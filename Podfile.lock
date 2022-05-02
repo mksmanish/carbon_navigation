@@ -1,0 +1,16 @@
+PODS:
+  - CarbonKit (2.3.1)
+
+DEPENDENCIES:
+  - CarbonKit
+
+SPEC REPOS:
+  trunk:
+    - CarbonKit
+
+SPEC CHECKSUMS:
+  CarbonKit: b60e24dbdb47179990d5e074efa87ab819c8de98
+
+PODFILE CHECKSUM: 0d20618fa983b3d31aa443567f8414f8e25c6611
+
+COCOAPODS: 1.11.2
